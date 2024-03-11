@@ -1,18 +1,19 @@
 {
   "KPackageStructure": "Plasma/LookAndFeel",
   "KPlugin": {
-  "Authors": [
-    {
-      "Email": "",
-      "Name": "P3tray"
-    }
-  ],
-  "Category": "Graphics",
-  "Description": "Arch Splash for Plasma 6",
-  "Id": "com.github.P3tray.1604-Arch-Splash",
-  "License": "GPLv3",
-  "Name": "1604-Arch-Splash",
-  "Website": "https://github.com/P3tray/1604-Arch-Splash"
+    "Authors": [
+      {
+        "Email": "",
+        "Name": "P3tray"
+      }
+    ],
+    "Category": "Graphics",
+    "Description": "Arch Splash for Plasma 6",
+    "Id": "com.github.P3tray.1604-Arch-Splash",
+    "License": "GPLv3",
+    "Name": "1604-Arch-Splash",
+    "Website": "https://github.com/P3tray/1604-Arch-Splash"
+  },
   "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;",
   "X-Plasma-APIVersion": "2"
 }
